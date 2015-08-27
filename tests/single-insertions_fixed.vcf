@@ -1,0 +1,33 @@
+##fileformat=VCFv4.1
+##Biostar94573CmdLine=teste_gi.clustal
+##Biostar94573Version=undefined
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth.">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Approximate read depth">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##contig=<ID=chrUn,length=16571>
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NC_012920	gi|40849777|gb|AY495327.1|	gi|40849791|gb|AY495328.1|	gi|40849805|gb|AY495329.1|	gi|40849819|gb|AY495330.1|
+chrUn	72	.	C	T	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	200	.	A	N	.	.	DP=5	GT:DP	0/0:1	1/1:1	0/0:1	0/0:1	0/0:1
+chrUn	263	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	302	.	AC	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	1/1:1	0/0:1
+chrUn	310	.	TC	T	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	750	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	1438	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	2706	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	3106	.	C	CN	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	4550	.	T	C	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	1/1:1
+chrUn	4580	.	A	G	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	4769	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	7028	.	T	C	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	8134	.	T	C	.	.	DP=5	GT:DP	0/0:1	1/1:1	0/0:1	0/0:1	0/0:1
+chrUn	8347	.	A	G	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	1/1:1
+chrUn	8860	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	12361	.	A	G	.	.	DP=5	GT:DP	0/0:1	0/0:1	0/0:1	1/1:1	0/0:1
+chrUn	12810	.	A	G	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	1/1:1
+chrUn	13500	.	T	C	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	1/1:1
+chrUn	15326	.	G	A	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	15346	.	G	A	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	1/1:1
+chrUn	15904	.	T	C	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	16298	.	C	T	.	.	DP=5	GT:DP	1/1:1	0/0:1	0/0:1	0/0:1	0/0:1
+chrUn	16519	.	T	C	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	1/1:1
+chrUn	16526	.	G	A	.	.	DP=5	GT:DP	0/0:1	0/0:1	1/1:1	0/0:1	0/0:1
